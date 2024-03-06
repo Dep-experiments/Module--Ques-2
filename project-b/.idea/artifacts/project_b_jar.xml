@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="project-b:jar">
+    <output-path>$PROJECT_DIR$/../dist</output-path>
+    <root id="archive" name="project-b.jar">
+      <element id="module-output" name="project-b" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../dist/project-a.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../dist/project-c.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../dist/project_a.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../dist/project_b.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../dist/project_c.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../dist/project_d.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../dist/project_e.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../dist/project_f.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
